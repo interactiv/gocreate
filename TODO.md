@@ -1,9 +1,8 @@
 ##Sprint 1
 
-###a user can
+###a user can create a go project using the cli tool
 
-- [x] Display the current working directory
-- [ ] accept a string as argument
-- [ ] generate .gitignore file in working directory
-- [ ] generate a go file named after the current directory
-- [ ] generate a go test file named after the current directory
+- [x] accept a project name as argument.
+- [x] generate .gitignore file  in the project directory
+- [x] generate a go file in the project directory
+- [x] generate a go test file  in the project directory

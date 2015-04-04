@@ -2,7 +2,7 @@
 
 Go create helps developers create go projects with a commandline tool
 	
-Author:  aikah
+Author:  mparaiso<mparaiso@online.fr>
 
 Year: 2015
 
